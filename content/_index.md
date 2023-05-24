@@ -2,5 +2,4 @@
 title: Thoughts By Cloud ☁️
 enableToc: false
 ---
-
-You made it. This is it. My random [thoughts]. 
+You made it. This is it. My random [thoughts](thanhvannguyen.github.io/quartz/thoughts). 
