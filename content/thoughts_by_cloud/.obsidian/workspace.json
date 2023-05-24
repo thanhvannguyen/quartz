@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/2023-05-24.md",
+                "file": "private/github token.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/2023-05-24.md",
+                "file": "private/github token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/2023-05-24.md",
+                "file": "private/github token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/2023-05-24.md"
+                "file": "private/github token.md"
               }
             }
           },
@@ -168,12 +168,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ba1308836f4073c",
+  "active": "578e7a95d825bdc4",
   "lastOpenFiles": [
+    "thoughts/2023-05-24.md",
     "private/github token.md",
     "private",
-    "thoughts/2023-05-24.md",
-    "thoughts/2023-05-24.md",
     "thoughts",
     "templates/new note.md",
     "templates"
