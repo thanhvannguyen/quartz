@@ -2,4 +2,5 @@
 title: Thoughts By Cloud ☁️
 enableToc: false
 ---
+![Clouds in the sky](/images/clouds.jpg)
 You made it. This is it. My random [thoughts](thanhvannguyen.github.io/quartz/thoughts). 
